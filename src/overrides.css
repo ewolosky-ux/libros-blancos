@@ -1,0 +1,6 @@
+.section.paper{height:auto;padding:145px 8vw;display:block;box-shadow:none;position:relative;gap:0;transition:none}
+.section.paper:after{display:none}
+.section.paper h2{font:500 clamp(46px,7vw,100px)/.9 var(--serif);max-width:620px}
+.section.paper small,.section.paper i{font:inherit;color:inherit}
+.section.paper b{font:inherit;max-width:none}
+@media(max-width:720px){.section.paper{height:auto;padding:85px 28px}.section.paper h2{font-size:49px}}
